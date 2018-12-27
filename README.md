@@ -1,4 +1,4 @@
-# Multimedia_project
+# Multimedia_project using java
 
 -GrayScaleImage
 -ImageCropper
